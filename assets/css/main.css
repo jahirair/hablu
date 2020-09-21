@@ -683,7 +683,10 @@ ul.navbar-nav.ml-auto li.current a {
 .blog-image {
 	width: 100%;
 }
-
+.blog-image img {
+    max-height: 234px;
+    width: 100%;
+}
 .blog-meta {
 	text-align: center;
 	background: #fff;
