@@ -50,9 +50,17 @@
 	.container, .container-sm {
     max-width: 100%;
   }
-  .single-price {
-	margin-bottom: 90px;
-}
+  .section-title h4 {font-size: 28px;}
+  .banner-content h4{font-size:16px;}
+  .banner-content h2{font-size:22px;}
+  .banner-content a {margin: 20px 10px;display: block;}
+  .banner-area .owl-dots .owl-dot {display:none;}
+  .testimonial .owl-dots .owl-dot {display:none;}
+  .testimonial-area .owl-carousel .owl-item {height: 320px;}
+  .testimonial-area .owl-carousel .owl-item img {width: 80px;}
+  .blog-meta a {display: block;}
+  .subscribe-area input[type="submit"] {padding: 10px 5px;}
+  .single-price {margin-bottom: 90px;}
   .navbar-collapse.collapse.show{background:#333;}
   .about-img {margin-top:30px;}
   .feature-1:before,.feature-2:before,.feature-1:after,.feature-2:after{display:none;}
