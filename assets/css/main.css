@@ -306,12 +306,12 @@ ul.navbar-nav.ml-auto li.current a {
 
 .feature-1:before {
 	right: 0;
-	background-image: url('../../assets/img/banner1.jpg');
+	background-image: url('../../assets/img/banner1.750.jpg');
 }
 
 .feature-2:before {
 	left: 0;
-	background-image: url('../../assets/img/banner2.jpg');
+	background-image: url('../../assets/img/banner2.750.jpg');
 }
 
 .feature-1:after,
